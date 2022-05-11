@@ -1,5 +1,5 @@
 <?php
-// koneksi ke database
+// koneksi ke databas
 $conn = mysqli_connect("localhost", "root", "", "hotel-hebat");
 ?>
 
